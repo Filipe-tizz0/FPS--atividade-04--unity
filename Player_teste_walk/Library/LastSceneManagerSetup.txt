@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/player_walking.unity
+  isLoaded: 1
+  isActive: 1
