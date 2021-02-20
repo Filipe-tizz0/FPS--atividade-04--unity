@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 854457dbc6b402f469201a980c42545c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: chao1
+    100004: "ch\xE3o 02"
+    100006: "ch\xE3o-baked 03"
+    100008: corredor-baked
+    100010: corredor-baked.002
+    100012: corredor-baked.003
+    100014: parede-baked 03
+    100016: parede1
+    100018: parede1.001
+    100020: paredes 02
+    100022: teto-baked 03
+    100024: teto02
+    100026: teto1
+    100028: vigas 02
+    100030: vigas-baked 03
+    100032: vigas01
+    400000: //RootNode
+    400002: chao1
+    400004: "ch\xE3o 02"
+    400006: "ch\xE3o-baked 03"
+    400008: corredor-baked
+    400010: corredor-baked.002
+    400012: corredor-baked.003
+    400014: parede-baked 03
+    400016: parede1
+    400018: parede1.001
+    400020: paredes 02
+    400022: teto-baked 03
+    400024: teto02
+    400026: teto1
+    400028: vigas 02
+    400030: vigas-baked 03
+    400032: vigas01
+    2100000: Material.013
+    2100002: Material.014
+    2100004: Material.010
+    2100006: Material.011
+    2100008: Material.008
+    2100010: Material.006
+    2100012: Material.007
+    2100014: Material.009
+    2100016: Material
+    2100018: Material.002
+    2100020: Material.004
+    2100022: Material.005
+    2100024: Material.003
+    2300000: chao1
+    2300002: "ch\xE3o 02"
+    2300004: "ch\xE3o-baked 03"
+    2300006: parede-baked 03
+    2300008: parede1
+    2300010: parede1.001
+    2300012: paredes 02
+    2300014: teto-baked 03
+    2300016: teto02
+    2300018: teto1
+    2300020: vigas 02
+    2300022: vigas-baked 03
+    2300024: vigas01
+    3300000: chao1
+    3300002: "ch\xE3o 02"
+    3300004: "ch\xE3o-baked 03"
+    3300006: parede-baked 03
+    3300008: parede1
+    3300010: parede1.001
+    3300012: paredes 02
+    3300014: teto-baked 03
+    3300016: teto02
+    3300018: teto1
+    3300020: vigas 02
+    3300022: vigas-baked 03
+    3300024: vigas01
+    4300000: "ch\xE3o-baked 03"
+    4300002: teto-baked 03
+    4300004: vigas-baked 03
+    4300006: parede-baked 03
+    4300008: vigas 02
+    4300010: "ch\xE3o 02"
+    4300012: paredes 02
+    4300014: teto02
+    4300016: parede1.001
+    4300018: vigas01
+    4300020: teto1
+    4300022: parede1
+    4300024: chao1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
